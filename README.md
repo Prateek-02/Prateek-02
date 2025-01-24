@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Web Dev**
 
-- 👨‍💻 All of my projects are available at [https://prateek-02.github.io/Web-dev-Projects/Portfolio/](https://prateek-02.github.io/Web-dev-Projects/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://prateek-02.github.io/Prateek-sPortfolio/](https://prateek-02.github.io/Prateek-sPortfolio/)
 
 - 📫 How to reach me **Prateekrajgrd74@gmail.com**
 
